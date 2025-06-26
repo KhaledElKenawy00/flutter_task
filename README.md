@@ -62,3 +62,11 @@ flutter run
 }
 
 
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/profile.jpg" alt="Profile Screen" width="400"/>
+  <img src="assets/edit.jpg" alt="Edit Profile Screen" width="400"/>
+  <img src="assets/orders.jpg" alt="Orders Screen" width="400"/>
+</p>
+
