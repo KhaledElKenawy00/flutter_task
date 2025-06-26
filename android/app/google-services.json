@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "949793563085",
+    "firebase_url": "https://mawakay-3b1ac-default-rtdb.firebaseio.com",
+    "project_id": "mawakay-3b1ac",
+    "storage_bucket": "mawakay-3b1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949793563085:android:0c8139dabd6808ddc62484",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCdww6o1fKA7O_cmsglRsdSvfxFZ1Or8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949793563085:android:912683823c2b4fc6c62484",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCdww6o1fKA7O_cmsglRsdSvfxFZ1Or8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
