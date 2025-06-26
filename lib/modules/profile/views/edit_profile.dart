@@ -28,7 +28,10 @@ class EditProfileView extends StatelessWidget {
     gender.value = user.gender;
 
     return Scaffold(
-      appBar: AppBar(title: Text('تعديل البيانات')),
+      appBar: AppBar(
+        title: Text('Edit Profile', style: TextStyle(color: salamonColor)),
+        centerTitle: true,
+      ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: ListView(
